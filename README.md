@@ -6,10 +6,10 @@ The heating control system is an on/off feedback control system activated by rel
 Intended hardware:
 
 Arduino Uno Rev3
-ZR370-02PM Micro Air Pump 
-Ohmite FSR01 Force Sensing Resistor
-DS18S20 Temperature Sensor
-Arduino Four-Relay Shield containing Finder 30.22.7.005.0010s
+ZR370-02PM Micro Air Pump, 
+Ohmite FSR01 Force Sensing Resistor,
+DS18S20 Temperature Sensor,
+Arduino Four-Relay Shield containing Finder 30.22.7.005.0010s,
 SparkFun COM-11289 heat mat
 
 Circuit block diagram:
